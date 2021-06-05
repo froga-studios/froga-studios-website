@@ -1,3 +1,11 @@
-h1 {
-    font-family: Arial
+.title {
+    text-align: center;
+    color: #c9b5ff;
+    text-decoration: underline;
+    text-decoration-color: #d698f5;
+}
+body {
+    font-family: Arial, fantasy;
+    background-color: rebeccapurple;
+    color: white;
 }

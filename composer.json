@@ -10,5 +10,6 @@
     }
   ],
   "require": {
+    "erusev/parsedown": "^1.7"
   }
 }
