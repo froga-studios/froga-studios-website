@@ -1,0 +1,14 @@
+{
+  "name": "froga-studios/froga-studios-website",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Exo",
+      "email": "exo@frogastudios.com"
+    }
+  ],
+  "require": {
+  }
+}
