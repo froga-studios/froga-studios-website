@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "composer-plugin-api": "^2.1",
+    "composer-plugin-api": "^*",
     "erusev/parsedown": "^1.7",
     "php": "^7.3"
   }
