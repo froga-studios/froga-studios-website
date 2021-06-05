@@ -10,6 +10,7 @@
     }
   ],
   "require": {
-    "composer-plugin-api": "^2.1"
+    "composer-plugin-api": "^2.1",
+    "erusev/parsedown": "^1.7"
   }
 }
