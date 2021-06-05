@@ -10,5 +10,6 @@
     }
   ],
   "require": {
+    "composer-plugin-api": "^2.1"
   }
 }
